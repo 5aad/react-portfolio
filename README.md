@@ -1,4 +1,4 @@
-# Clever Programmer ReactJS Portfolio Template Challange 1     
+# Clever Programmer ReactJS Portfolio Challange 1     
 
 
 
